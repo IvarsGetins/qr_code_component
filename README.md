@@ -11,9 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-solution-using-flexbox-xp1DZ1nkQA)
-- Live Site URL: [Add live site URL here](https://ivarsgetins.github.io/qr_code_component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-solution-using-flexbox-xp1DZ1nkQA](https://www.frontendmentor.io/solutions/qr-code-solution-using-flexbox-xp1DZ1nkQA)
+- Live Site URL: [https://ivarsgetins.github.io/qr_code_component/](https://ivarsgetins.github.io/qr_code_component/)
 
 ## My process
 
@@ -59,5 +57,5 @@ It was my first experience working with Flexbox, although I still don't feel com
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IvarsGetins)
+- Frontend Mentor - [@IvarsGetins](https://www.frontendmentor.io/profile/IvarsGetins)
 
